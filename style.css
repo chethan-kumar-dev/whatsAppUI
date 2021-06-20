@@ -80,7 +80,7 @@
 .chat-details{
    display: flex;
    justify-content: space-between;
-   padding: 10px;
+   padding: 5px;
    background-color: rgb(244, 248, 252);
 }
 .chat-details span{
